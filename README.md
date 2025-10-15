@@ -104,7 +104,7 @@ Showcases front-end development skills, component-based architecture, and respon
 
 🇸🇪 **Swedish** – Fluent  
 🇬🇧 **English** – Fluent  
-🇰🇷 **Kurdish** – Fluent  
+☀️ **Kurdish** – Fluent  
 🇪🇸 **Spanish** – Basic  
 
 ---
