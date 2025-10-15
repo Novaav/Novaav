@@ -89,7 +89,7 @@ Showcases front-end development skills, component-based architecture, and respon
 
 📧 [Nova.Zandkarimi@medieinstitutet.se](mailto:Nova.Zandkarimi@medieinstitutet.se)  
 🌐 Portfolio: *Launching soon!*  
-🔗 [LinkedIn](#)  
+🔗 [[LinkedIn](https://www.linkedin.com/in/nova-zandkarimi-8b289032b/)](#)  
 
 ---
 
