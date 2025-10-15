@@ -47,10 +47,8 @@ Built a functional app focusing on usability, state management, and API integrat
 
 ## 📫 Contact
 
-- Email: [nova.zandkarimi@me](mailto:nova.zandkarimi@me)  
-- Phone: 0736364013  
-- Portfolio: [Add your portfolio link]  
-- GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
+- Email: [Nova.Zandkarimi@medieinstitutet.se](mailto:Nova.Zandkarimi@medieinstitutet.se)  
+- Portfolio: [Coming 3days]   
 
 ---
 
