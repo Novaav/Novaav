@@ -77,18 +77,6 @@ Showcases front-end development skills, component-based architecture, and respon
 - Designed in Figma for consistency and accessibility  
 *(Live demo coming soon!)*
 
----
-
-### ✅ **Task Manager App**
-A task management tool focusing on **usability**, **state management**, and **API integration**.  
-**Tech:** React, TypeScript, Vite, Tailwind CSS  
-**Highlights:**  
-- CRUD functionality with real-time updates  
-- Custom form validation using React Hook Form  
-- Responsive design optimized for all devices  
-[🔗 View Repository](#) *(Add link when public)*  
-
----
 
 ### 🚀 Currently Exploring
 - **Framer Motion** – mastering advanced animations and micro-interactions  
@@ -101,7 +89,7 @@ A task management tool focusing on **usability**, **state management**, and **AP
 
 📧 [Nova.Zandkarimi@medieinstitutet.se](mailto:Nova.Zandkarimi@medieinstitutet.se)  
 🌐 Portfolio: *Launching soon!*  
-🔗 [LinkedIn](#) *(Add your link when ready)*  
+🔗 [LinkedIn](#)  
 
 ---
 
