@@ -1,4 +1,4 @@
-# Hi, I'm Nova Zandkarimi 👋
+# Hi, I'm Nova👋
 
 I'm a **Front-End Developer** passionate about combining **design and technology** to build modern, responsive, and user-friendly web applications.  
 Currently working with **React, TypeScript, Tailwind CSS, HTML & CSS**, and constantly exploring new tools to level up my front-end skills.  
