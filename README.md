@@ -108,10 +108,3 @@ Showcases front-end development skills, component-based architecture, and respon
 🇪🇸 **Spanish** – Basic  
 
 ---
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Novaav&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Novaav&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Novaav&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
