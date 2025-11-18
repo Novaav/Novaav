@@ -10,8 +10,8 @@ Currently building projects using **React, TypeScript, Tailwind CSS, and Vite**,
 I’m currently seeking a **Front-End Developer Internship (LIA)** where I can contribute to real-world projects, grow through collaboration, and create meaningful digital experiences.
 
 **Availability:**  
-- **LIA 1:** Autumn 2025  
-- **LIA 2:** From January 2026 (16 weeks, flexible start)
+- **Internship 1:** Autumn 2025  
+- **Internship 2:** From Nov/Jan 2026 (16 weeks, flexible start)
 
 ---
 
