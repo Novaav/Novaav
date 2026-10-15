@@ -1,123 +1,83 @@
-<!-- Front-End Developer | React | TypeScript | Tailwind CSS | Portfolio & Projects | UI/UX Design -->
+# Nova Zandkarimi
 
-# Hi, I'm Nova 👋
+**Software Engineer · Full-Stack & Applied AI**
 
-**Front-End Developer | React | TypeScript | Tailwind CSS | UI/UX Design**
+Software developer based in Sweden, with a background in frontend development and experience building full-stack applications.
 
-I'm a **Front-End Developer** passionate about blending **design and technology** to create responsive, modern, and user-friendly web applications.  
-Currently building projects using **React, TypeScript, Tailwind CSS, Next.js, Node.js, and more**, and continuously exploring tools that enhance code quality and user experience.
+I graduated from Medieinstitutet's Front End Developer program in May 2026. My work spans user interfaces, backend APIs, relational databases, and AI-assisted application features.
 
-I’m currently seeking a **Front-End Developer Internship (LIA)** where I can contribute to real-world projects, grow through collaboration, and create meaningful digital experiences.
+I'm interested in building useful products and understanding the engineering decisions behind them — from data modeling and reliability to usability and performance.
 
-**Availability:**  
-- **Internship 1:** Autumn 2025 – Done  
-- **Internship 2:** From Jan/Feb 2026 (flexible start)
+**[Portfolio ↗](https://engineering-portfolio.nova-zandkarimi.workers.dev/)** · **[LinkedIn ↗](https://www.linkedin.com/in/nova-zandkarimi-8b289032b/)** · **[Email ↗](mailto:Nova.Zandkarimi@medieinstitutet.se)**
 
 ---
 
-## 💻 Tech Stack
+## Selected work
 
-### 🧠 Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### [Proper Papers](https://github.com/Novaav/proper-papers)
 
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+**Evidence-backed document intelligence**
 
-### 🧰 Back-End & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23007ACC.svg?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+A full-stack application that turns business documents into structured records while keeping supporting evidence visible and uncertainty explicit.
 
-### 🧪 Testing & QA
-![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility-%2300ACC1.svg?style=for-the-badge)
+The system combines document processing, structured extraction, evidence review, and human oversight.
 
-### 🖌️ Design & UX
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+**Engineering highlights**
+- Designed workflows that distinguish supported information from missing or conflicting evidence.
+- Built with a TypeScript/Next.js frontend, Python/FastAPI backend, and PostgreSQL.
+- Includes automated tests, CI, and documented evaluation.
+- Records unsuccessful experiments and limitations alongside the results.
 
-### 🚀 Deployment & Tools
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+**[Technical case study ↗](https://engineering-portfolio.nova-zandkarimi.workers.dev/projects/proper-papers/)** · **[Source code ↗](https://github.com/Novaav/proper-papers)**
+
+*Completed portfolio project · Source available · No hosted interactive demo*
 
 ---
 
-## 🌟 Core Competencies
+## Technologies
 
-- Clear, collaborative communicator  
-- Creative problem solver with strong UI/UX awareness  
-- Adaptable, curious, and growth-oriented  
-- Organized, reliable, and results-driven  
-- Focused on performance, accessibility, and maintainable code  
-- Basic debugging and identifying solutions in front-end and back-end code  
+### Languages
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-## 💻 Featured Projects
+### Frontend
 
-### 🖥️ **Portfolio Website (Ongoing)**
-Showcases front-end development skills, component-based architecture, and responsive design.  
-**Tech:** React, TypeScript, Tailwind CSS, Framer Motion  
-**Highlights:**  
-- Built with a custom component system for scalability  
-- Smooth animations using Framer Motion  
-- Designed in Figma for consistency and accessibility  
-*[(https://original-portfolio-swart.vercel.app)](https://original-portfolio-swart.vercel.app)*
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+### Backend & data
 
-### 🚀 Currently Exploring
-- **Framer Motion** – advanced animations and micro-interactions  
-- **Debugging strategies** – improving workflow by identifying issues and solutions  
-- **Performance optimization & accessibility (a11y)** – keeping projects fast and user-friendly  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-374151?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
----
+### Engineering & delivery
 
-## 📫 Contact
-
-📧 [Nova.Zandkarimi@medieinstitutet.se](mailto:Nova.Zandkarimi@medieinstitutet.se)  
-🌐 Portfolio: [https://original-portfolio-swart.vercel.app](https://original-portfolio-swart.vercel.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nova-zandkarimi-8b289032b/)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
-## 🎓 Education
+## Background
 
-**Medieinstitutet Yrkeshögskola** – Front-End Developer  
-2024 – 2026 (Ongoing)
+**Front End Developer — Medieinstitutet**  
+Higher Vocational Education · 400 YH credits · Graduated May 2026
 
----
+Professional internship experience in frontend development, with exposure to backend-connected applications and collaborative development.
 
-## 🌍 Languages
+My independent projects extend that foundation into full-stack systems and applied AI.
 
-🇸🇪 **Swedish** – Fluent  
-🇬🇧 **English** – Fluent  
-☀️ **Kurdish** – Fluent  
-🇪🇸 **Spanish** – Basic  
+I'm currently strengthening my skills in software architecture, testing, debugging, and production engineering.
 
 ---
 
+**[Explore my portfolio](https://engineering-portfolio.nova-zandkarimi.workers.dev/)** · **[Get in touch](mailto:Nova.Zandkarimi@medieinstitutet.se)**
