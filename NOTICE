@@ -1,0 +1,15 @@
+Third-party assets used in this repository
+
+Typography in assets/hero-*.svg and assets/tech/
+  Instrument Serif, Copyright 2022 The Instrument Serif Project Authors
+  (https://github.com/Instrument/instrument-serif). Licensed under the SIL Open
+  Font License, Version 1.1 (https://openfontlicense.org). The text is embedded as
+  outlined vector paths.
+
+Technology logos in assets/tech/
+  Simple Icons (https://github.com/simple-icons/simple-icons), CC0 1.0 Universal.
+  Each logo remains the trademark of its respective owner and is shown only to
+  identify the technology. The glyphs for SQL, REST APIs and C# are
+  generic marks drawn for this profile.
+
+The cat illustration and layout are original artwork created for this profile.
